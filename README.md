@@ -1,4 +1,4 @@
-# RedisTester
+# jedis-sample
 
 * Redis의 각종 자료구조를 직접 사용해보았습니다.
 
